@@ -1,4 +1,4 @@
-Java / JDBC Bank Application
+# Java / JDBC Bank Application
 
 > gradle 빌드로 실행하기
 
